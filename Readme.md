@@ -17,7 +17,6 @@
 
 
     。。。
-<<<<<<< Updated upstream
     
 胡宥嘉
 =======
@@ -34,4 +33,13 @@
 
 如果还是搞不定　google stackoverflow   baidu
 
->>>>>>> Stashed changes
+
+# 再做点一点新的小玩意
+
+
+``` python 
+import random   
+x = [i for i in random.int(0,100)]
+result = list(map(lambda x: x * 2,x))
+
+```
